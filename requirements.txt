@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain_groq
+langchain-core
+pandas
+joblib
+sqlite-utils
+langchain_community
+langgraph-checkpoint
+pydantic
+pytest
+re
