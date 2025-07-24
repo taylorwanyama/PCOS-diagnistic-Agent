@@ -91,7 +91,7 @@ Follow these steps to set up and run the PCOS Diagnostic Assistant on your machi
     ```
     Then, install the dependencies. You'll likely need to manually create a `requirements.txt` based on the `🛠 Technologies Used` section, or install them one by one:
     ```bash
-    pip install langgraph langchain-groq pydantic python-dotenv joblib pandas scikit-learn imblearn-learn
+    pip install langgraph langchain-groq pydantic python-dotenv joblib pandas scikit-learn imbalanced-learn
     ```
     *(Note: `langchain-core` is a dependency of `langgraph` and `langchain-groq`.)*
 
@@ -155,5 +155,6 @@ I envision several ways to expand and improve this diagnostic assistant:
 
 ## Author
 
-**[Taylor Wanyama]**
-**([https://www.linkedin.com/in/taylor-wanyama-421920271/](https://www.linkedin.com/in/taylor-wanyama-421920271/))**
+**Taylor Wanyama**  
+[LinkedIn Profile](https://www.linkedin.com/in/taylor-wanyama-421920271/)
+
